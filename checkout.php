@@ -118,7 +118,6 @@ if(isset($_POST['order_btn'])){
             <span>Payment Method:</span>
             <select name="method">
                <option value="cash on delivery">Cash on Delivery (COD)</option>
-               <option value="credit card">GCash</option>
             </select>
          </div>
          <div class="inputBox">
