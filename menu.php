@@ -120,11 +120,6 @@ $category_filter = isset($_GET['category']) ? $_GET['category'] : '';
       
       <!-- Add to Cart Button -->
       <input type="submit" value="add to cart" name="add_to_cart" class="btn">
-
-      <!-- Circular Button for details -->
-      <button type="button" class="circle-button" title="View Details">
-          <i class="fas fa-info"></i> <!-- Info icon -->
-      </button>
       
      </form>
       <?php
